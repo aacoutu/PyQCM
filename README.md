@@ -22,6 +22,8 @@ Then run Spyder from the Anaconda command prompt while in the virtual environmen
 
 Make sure that all imported csv files are the basic comma delimited file format, and not another csv format.
 
+-------
+
 lmfit copyright information:
 
 "BSD-3
