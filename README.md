@@ -5,24 +5,16 @@ This should be the only library installation needed. In case of issues with vers
 Install Anaconda and run these lines in order from the Anaconda command prompt:
 
 
-conda create --name QCM_analysis_env
-
+conda create --name QCM_analysis_env  
 conda activate QCM_analysis_env
 
-conda install python=3.8
-
-conda install spyder=5.5.1
-
-conda install numpy=1.24.3
-
-conda install matplotlib=3.7.2
-
-conda install pandas=2.0.3
-
-conda install tk=8.6.14
-
-conda install sympy=1.12
-
+conda install python=3.8  
+conda install spyder=5.5.1  
+conda install numpy=1.24.3  
+conda install matplotlib=3.7.2  
+conda install pandas=2.0.3  
+conda install tk=8.6.14  
+conda install sympy=1.12  
 conda install conda-forge::lmfit=1.2.2
 
 -------
