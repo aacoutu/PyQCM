@@ -1,3 +1,7 @@
+Included in the "scripts" folder are two sets of code. "Circuit_Analysis.py" analyzes a given set of quartz crystal microbalance (QCM) resonance traces at different harmonics and outputs the associated resonance frequency and dissipation data. It uses a circuit equation that corresponds specifically to our setup, so that must be considered if one wants to use the code for another QCM circuit setup. "Modeling_Film_Properties.py" uses our continuum mechanics transfer-matrix model to identify local gradients in modulus or density for a film deposited on the QCM sensor.
+
+-------
+
 Make sure that all imported csv files are the basic comma delimited file format, and not another csv format.
 
 lmfit library installation in command prompt: if using pip, run- "pip install lmfit" ; if using conda, run one of the lines found here- https://anaconda.org/conda-forge/lmfit
