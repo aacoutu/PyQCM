@@ -1,3 +1,5 @@
+Make sure that all imported csv files are the basic comma delimited file format, and not another csv format.
+
 lmfit library installation in command prompt: if using pip, run- "pip install lmfit" ; if using conda, run one of the lines found here- https://anaconda.org/conda-forge/lmfit
 
 This should be the only library installation needed. In case of issues with version dependence, or if a virtual environment is desired, below are instructions for a stable installation of libraries to a virtual environment.
@@ -17,11 +19,8 @@ conda install tk=8.6.14
 conda install sympy=1.12  
 conda install conda-forge::lmfit=1.2.2
 
--------
-
-Then run Spyder from the Anaconda command prompt while in the virtual environment
-
-Make sure that all imported csv files are the basic comma delimited file format, and not another csv format.
+<br>
+Then run Spyder from the Anaconda command prompt while in the virtual environment.
 
 -------
 
